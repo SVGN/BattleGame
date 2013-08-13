@@ -3,7 +3,7 @@
 /// <reference path="persister.js" />
 
 var controller = (function () {
-    var rootUrl = "http://battlegame.apphb.com/api/";
+    var rootUrl = "https://appharbor.com:443/applications/battlegame/api/";
 
     var Controller = Class.create({
         init: function (selector) {
