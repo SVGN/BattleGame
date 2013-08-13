@@ -3,7 +3,7 @@
 /// <reference path="persister.js" />
 
 var controller = (function () {
-    var rootUrl = "http://localhost:22954/api/";
+    var rootUrl = "http://battlegame.apphb.com/api/";
 
     var Controller = Class.create({
         init: function (selector) {
