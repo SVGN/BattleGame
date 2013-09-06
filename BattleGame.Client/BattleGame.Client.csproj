@@ -66,10 +66,6 @@
     <Content Include="Styles\images\glyphicons-halflings-white.png" />
     <Content Include="Styles\images\glyphicons-halflings.png" />
     <Content Include="Scripts\Libs\bootstrap.js" />
-    <Content Include="game.html" />
-    <Content Include="index.html" />
-    <Content Include="login.html" />
-    <Content Include="register.html" />
     <Content Include="Scripts\contoller.js" />
     <Content Include="Scripts\http-requester.js" />
     <Content Include="Scripts\Libs\class.js" />
